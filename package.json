@@ -1,5 +1,9 @@
 {
   "name": "reveal-on-scroll",
+  "author": {
+    "name": "thebestlucc",
+    "email": "thebestlucc@gmail.com"
+  },
   "private": true,
   "homepage": "https://thebestlucc.github.io/revel-on-scroll",
   "version": "1.0.0",
